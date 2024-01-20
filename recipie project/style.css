@@ -1,0 +1,14 @@
+*{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   background-color: antiquewhite;
+   color: black
+}
+h2{
+    text-align: center;
+    text-decoration: double;
+}
+h1{
+    text-align: center;
+    text-decoration: dotted;
+
+}
